@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<linker>  
+ 
+  <assembly fullname="NumSharp">
+    <type fullname="NumSharp.Core" preserve="all" />
+    <type fullname="System.Runtime.CompilerServices.Unsafe" preserve="all" />
+    <type fullname="System.Memory" preserve="all" />
+    <type fullname="System.Buffers" preserve="all" />
+  </assembly>
+  
+ 
+</linker>
